@@ -1,0 +1,3 @@
+C:/Users/BANGHO/Ejercicios/Ej - (12)/cmake-build-debug/CMakeFiles/Ej____12_.dir
+C:/Users/BANGHO/Ejercicios/Ej - (12)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/BANGHO/Ejercicios/Ej - (12)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

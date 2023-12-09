@@ -1,0 +1,3 @@
+C:/Users/BANGHO/Ejercicios/Ej - (10) Invertir pos/cmake-build-debug/CMakeFiles/Ej____10__Invertir_pos.dir
+C:/Users/BANGHO/Ejercicios/Ej - (10) Invertir pos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/BANGHO/Ejercicios/Ej - (10) Invertir pos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
